@@ -12,10 +12,10 @@ Analyze retail sales data to understand revenue trends and top performing produc
 - Top Products by Sales
 
 ## Tools Used
-- Python
-- Pandas
 - PowerShell
 - GitHub
+- Visual Studio Code
+- Language Used - Python
 
 ## What I Did
 - Loaded and cleaned CSV data
