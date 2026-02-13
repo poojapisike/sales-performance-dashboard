@@ -25,3 +25,5 @@ Analyze retail sales data to understand revenue trends and top performing produc
 ## Outcome
 Built a basic analytics pipeline that answers real business questions.
 
+<img width="1165" height="392" alt="image" src="https://github.com/user-attachments/assets/d4c06a28-2266-4d08-b749-650a0cfe26e3" />
+
